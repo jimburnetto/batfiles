@@ -1,0 +1,1 @@
+net user /Active:YES %1 /domain
